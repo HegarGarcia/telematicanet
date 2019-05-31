@@ -1,0 +1,28 @@
+{
+  "name": "telematicanet",
+  "version": "0.1.0",
+  "description": "Community-driven Web platform for supporting Facultad de Telematica's website and services",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismaelamezcua-ucol/telematicanet.git"
+  },
+  "author": "Ismael Amezcua <ismaelamezcua@ucol.mx>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ismaelamezcua-ucol/telematicanet/issues"
+  },
+  "homepage": "https://github.com/ismaelamezcua-ucol/telematicanet#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "dotenv": "^8.0.0",
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "helmet": "^3.18.0",
+    "morgan": "^1.9.1"
+  }
+}
