@@ -1,3 +1,7 @@
+* {
+    font-family: 'Barlow', sans-serif;
+}
+
 .hero-background {
     background-image: url("/assets/images/telematica.jpg");
     background-position: center center;
