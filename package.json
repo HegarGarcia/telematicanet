@@ -4,6 +4,7 @@
   "description": "Community-driven Web platform for supporting Facultad de Telematica's website and services",
   "main": "app.js",
   "scripts": {
+    "dev": "NODE_ENV=development node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
